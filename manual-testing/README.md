@@ -25,16 +25,3 @@ Google Chrome, Jira (free plan), Postman, Python with pytest and requests, Git a
 - JSONPlaceholder: https://jsonplaceholder.typicode.com
 
 ---
-
-## BEFORE YOU PUBLISH (delete this section when done)
-
-These items need your own screen, so I could not fill them in for you:
-
-- [ ] Replace every `[Chrome version]` with your real version (three-dot menu, Help, About Google Chrome).
-- [ ] **LG-002** (file 03): re-run it with the username `standard_user` (copy the name from the "Accepted usernames" box on the Saucedemo login page) and confirm the result.
-- [ ] **LG-003 to LG-006** (file 03): copy the error message from the screen character for character into each Actual result. The site's messages may start with a prefix such as "Epic sadface:".
-- [ ] **BUG-003, BUG-004, BUG-005** (file 05): reproduce each one once more and confirm the steps, the product names, the values you typed, and the reproducibility count. Your observation always wins over my wording.
-- [ ] Add your screenshots and recordings (see the Evidence line in each bug) and fix the links.
-- [ ] Check the Jira IDs in files 04 and 05 against your board (they were KAN-4, KAN-5 and KAN-6 when I last saw it).
-- [ ] The phone numbers in file 02 are made-up examples. Do not replace them with a real number, because this repo is public.
-- [ ] Read each file once, aloud, for typos and for data that does not match its steps.
